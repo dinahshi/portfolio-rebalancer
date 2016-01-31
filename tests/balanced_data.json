@@ -1,0 +1,25 @@
+{
+  "investments": [
+    {
+      "ticker": "GOOG",
+      "target_allocation": 0.6,
+      "actual_allocation": 0.5978,
+      "shares_owned": 61,
+      "share_price": 98
+    },
+    {
+      "ticker": "AAPL",
+      "target_allocation": 0.3,
+      "actual_allocation": 0.2992,
+      "shares_owned": 136,
+      "share_price": 22
+    },
+    {
+      "ticker": "TSLA",
+      "target_allocation": 0.1,
+      "actual_allocation": 0.1,
+      "shares_owned": 125,
+      "share_price": 8
+    }
+  ]
+}
